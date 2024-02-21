@@ -21,7 +21,7 @@
 </head>
 <body>
     <h1>About Me</h1>
-    <p>Hello! My name is Md AimanYour Name. I'm an in IT professional, passionate about creating awesome websites.</p>
+    <p>Hello! My name is Md Aiman. I'm an in IT professional, passionate about creating awesome websites.</p>
     <p>Here are a few things about me:</p>
     <ul>
         <li>I love coding and learning new technologies.</li>
